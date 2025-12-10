@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dice</string>
+    <string name="dice_roller">Dice Roller</string>
+    <string name="app_description">Choose the number of dice you want to play with</string>
+    <string name="one_die">One Die</string>
+    <string name="two_dice">Two Dice</string>
+    <string name="back">Back</string>
+    <string name="history">History</string>
+    <string name="no_history_yet">No history Yet</string>
+</resources>
